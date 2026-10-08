@@ -8,7 +8,7 @@
 
 ![CPTS](https://img.shields.io/badge/CPTS-In%20Progress-yellow?style=for-the-badge)
 ![CCNA](https://img.shields.io/badge/CCNA-In%20Progress-yellow?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-School-Experience-orange?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Community%20Edition-orange?style=for-the-badge)
 
 ---
 
