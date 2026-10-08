@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Chris&fontSize=90&fontColor=e8f0ff&desc=Aspiring%20Cybersecurity%20Professional&descSize=20&descAlignY=60&descColor=c9d6e8)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=200&section=header&text=Chris&fontSize=90&fontColor=e8f0ff&desc=Aspiring%20Cybersecurity%20Professional&descSize=20&descAlignY=75&descColor=c9d6e8)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A1%EF%B8%8F+Aspiring+Cybersecurity+Professional;%F0%9F%93%9A+Studying+CPTS+%26+CCNA)](https://git.io/typing-svg)
 
